@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 1e06a0f9eadde1d499eb045ee829282e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Exjobb_Animations_0
+    21300002: Exjobb_Animations_1
+    21300004: Exjobb_Animations_2
+    21300006: Exjobb_Animations_3
+    21300008: Exjobb_Animations_4
+    21300010: Exjobb_Animations_5
+    21300012: Exjobb_Animations_6
+    21300014: Exjobb_Animations_7
+    21300016: Exjobb_Animations_8
+    21300018: Exjobb_Animations_9
+    21300020: Exjobb_Animations_10
+    21300022: Exjobb_Animations_11
+    21300024: Exjobb_Animations_12
+    21300026: Exjobb_Animations_13
+    21300028: Exjobb_Animations_14
+    21300030: Exjobb_Animations_15
+    21300032: Exjobb_Animations_16
+    21300034: Exjobb_Animations_17
+    21300036: Exjobb_Animations_18
+    21300038: Exjobb_Animations_19
+    21300040: Exjobb_Animations_20
+    21300042: Exjobb_Animations_21
+    21300044: Exjobb_Animations_22
+    21300046: Exjobb_Animations_23
+    21300048: Exjobb_Animations_24
+    21300050: Exjobb_Animations_25
+    21300052: Exjobb_Animations_26
+    21300054: Exjobb_Animations_27
+    21300056: Exjobb_Animations_28
+    21300058: Exjobb_Animations_29
+    21300060: Exjobb_Animations_30
+    21300062: Exjobb_Animations_31
+    21300064: Exjobb_Animations_32
+    21300066: Exjobb_Animations_33
+    21300068: Exjobb_Animations_34
+    21300070: Exjobb_Animations_39
+    21300072: Exjobb_Animations_41
+    21300074: Exjobb_Animations_48
+    21300076: Exjobb_Animations_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Exjobb_Animations_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2442
+        width: 203
+        height: 378
+      alignment: 9
+      pivot: {x: .507389188, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2442
+        width: 211
+        height: 378
+      alignment: 9
+      pivot: {x: .483412325, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2442
+        width: 268
+        height: 378
+      alignment: 9
+      pivot: {x: .514925361, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_3
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2442
+        width: 212
+        height: 378
+      alignment: 9
+      pivot: {x: .485849053, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2442
+        width: 187
+        height: 378
+      alignment: 9
+      pivot: {x: .486631006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_5
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2442
+        width: 188
+        height: 378
+      alignment: 9
+      pivot: {x: .553191483, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_6
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 2442
+        width: 182
+        height: 378
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1988
+        width: 206
+        height: 378
+      alignment: 9
+      pivot: {x: .514563084, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1988
+        width: 215
+        height: 378
+      alignment: 9
+      pivot: {x: .493023247, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_9
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1988
+        width: 268
+        height: 378
+      alignment: 9
+      pivot: {x: .514925361, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_10
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1988
+        width: 215
+        height: 378
+      alignment: 9
+      pivot: {x: .493023247, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_11
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1988
+        width: 202
+        height: 378
+      alignment: 9
+      pivot: {x: .524752498, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_12
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1988
+        width: 191
+        height: 378
+      alignment: 9
+      pivot: {x: .554973841, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_13
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1988
+        width: 197
+        height: 378
+      alignment: 9
+      pivot: {x: .538071036, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1585
+        width: 212
+        height: 378
+      alignment: 9
+      pivot: {x: .485849053, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1585
+        width: 187
+        height: 378
+      alignment: 9
+      pivot: {x: .486631006, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1585
+        width: 268
+        height: 378
+      alignment: 9
+      pivot: {x: .514925361, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_17
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1585
+        width: 215
+        height: 378
+      alignment: 9
+      pivot: {x: .493023247, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_18
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1585
+        width: 202
+        height: 378
+      alignment: 9
+      pivot: {x: .524752498, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_19
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1585
+        width: 268
+        height: 378
+      alignment: 9
+      pivot: {x: .51492542, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1145
+        width: 219
+        height: 378
+      alignment: 9
+      pivot: {x: .415525109, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1145
+        width: 250
+        height: 405
+      alignment: 9
+      pivot: {x: .363999993, y: .466666698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_22
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1145
+        width: 259
+        height: 412
+      alignment: 9
+      pivot: {x: .351351351, y: .45873785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_23
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1145
+        width: 295
+        height: 381
+      alignment: 9
+      pivot: {x: .308474571, y: .496062994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_24
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1145
+        width: 388
+        height: 378
+      alignment: 9
+      pivot: {x: .234536082, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_25
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1145
+        width: 422
+        height: 378
+      alignment: 9
+      pivot: {x: .215639815, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 743
+        width: 214
+        height: 333
+      alignment: 9
+      pivot: {x: .392523378, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 743
+        width: 214
+        height: 333
+      alignment: 9
+      pivot: {x: .392523378, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_28
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 743
+        width: 214
+        height: 333
+      alignment: 9
+      pivot: {x: .392523378, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_29
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 743
+        width: 214
+        height: 333
+      alignment: 9
+      pivot: {x: .392523378, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_30
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 743
+        width: 214
+        height: 333
+      alignment: 9
+      pivot: {x: .392523378, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_31
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 743
+        width: 234
+        height: 333
+      alignment: 9
+      pivot: {x: .444444448, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_32
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 743
+        width: 182
+        height: 333
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 566
+        width: 180
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 590
+        width: 180
+        height: 96
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 507
+        width: 60
+        height: 156
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_41
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 507
+        width: 68
+        height: 168
+      alignment: 9
+      pivot: {x: .558823526, y: .464285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_48
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 507
+        width: 68
+        height: 168
+      alignment: 9
+      pivot: {x: .617647052, y: .464285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Exjobb_Animations_49
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 507
+        width: 64
+        height: 168
+      alignment: 9
+      pivot: {x: .53125, y: .464285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
